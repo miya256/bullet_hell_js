@@ -1,0 +1,14 @@
+canvas{
+    display: none;
+    margin: 0 auto;
+}
+.scene{
+    display: none;
+    text-align: center;
+}
+#titleScene{
+    display: block;
+}
+.h1{
+    margin-top: 200px;
+}
