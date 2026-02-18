@@ -1,6 +1,6 @@
 export const PATH = { //htmlからの相対パス
-    BULLET_IMAGE: "../img/bullets.png",
-    BULLET_DATA: "../data/bulletData.csv"
+    BULLET_IMAGE: "./img/bullets.png",
+    BULLET_DATA: "./data/bulletData.csv"
 }
 
 export const SCENE = {
