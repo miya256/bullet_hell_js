@@ -2,7 +2,7 @@ import { canvas, ctx } from "../canvas.js";
 import { Point } from "../util.js";
 
 const img = new Image();
-img.src = "../../img/map.png";
+img.src = "./img/map.png";
 
 class Stage {
     static LOCKED = 0;
@@ -67,4 +67,5 @@ export class Player {
     draw() {
         
     }
+
 }
